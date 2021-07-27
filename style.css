@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:'Josefin sans',sans-serif;
+}
+
+ .carousel-item {
+   height:90vh;
+    
+}
+img {
+    width: 100%;
+}
